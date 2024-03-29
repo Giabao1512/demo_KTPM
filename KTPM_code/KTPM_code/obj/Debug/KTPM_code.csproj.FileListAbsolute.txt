@@ -1,0 +1,10 @@
+C:\KTPM\KTPM_code\KTPM_code\bin\Debug\KTPM_code.exe.config
+C:\KTPM\KTPM_code\KTPM_code\bin\Debug\KTPM_code.exe
+C:\KTPM\KTPM_code\KTPM_code\bin\Debug\KTPM_code.pdb
+C:\KTPM\KTPM_code\KTPM_code\obj\Debug\KTPM_code.csproj.AssemblyReference.cache
+C:\KTPM\KTPM_code\KTPM_code\obj\Debug\KTPM_code.Form1.resources
+C:\KTPM\KTPM_code\KTPM_code\obj\Debug\KTPM_code.Properties.Resources.resources
+C:\KTPM\KTPM_code\KTPM_code\obj\Debug\KTPM_code.csproj.GenerateResource.cache
+C:\KTPM\KTPM_code\KTPM_code\obj\Debug\KTPM_code.csproj.CoreCompileInputs.cache
+C:\KTPM\KTPM_code\KTPM_code\obj\Debug\KTPM_code.exe
+C:\KTPM\KTPM_code\KTPM_code\obj\Debug\KTPM_code.pdb
